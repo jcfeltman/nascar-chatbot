@@ -1,0 +1,13 @@
+{
+  "name": "nascar-history-pit-box",
+  "version": "1.0.0",
+  "description": "A NASCAR history chatbot with a live web-search-enabled backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
